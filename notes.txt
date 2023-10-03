@@ -1,0 +1,4 @@
+
+ project initialization: npm init --y 
+
+ dependencies: inp i express nodemon body-parser cors dotenv uuid
